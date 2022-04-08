@@ -9,7 +9,16 @@
 }
 
 
-
+.imagesitro{
+  height: 300px !important;
+  width: 400px !important;
+  margin-left: 100px;
+}
+.imagesch{
+  height: 1000px !important;
+  width: 500px !important;
+  margin-left: 100px;
+}
 .navy-blue {
   color: #000080;
 }
@@ -13801,7 +13810,9 @@ table>tbody>tr.danger>th,
 table>tfoot>tr.danger>th {
   background-color: #f2dede;
 }
-
+.mb-100{
+  margin-bottom: 100px;
+}
 @media screen and (min-width: 601px) {
 
   .rstable {
@@ -14059,6 +14070,9 @@ table>tfoot>tr.danger>th {
 @media screen and (min-width: 700px) and (max-width:1024px) {
   .rsbanner h3 {
     font-size: 20px;
+  }
+  .mb-100{
+    margin-bottom: 10px;
   }
 
   .rsbanner .title-small-gen1 {
